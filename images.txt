@@ -5,5 +5,6 @@ milvusdb/milvus:2.4-latest
 quay.io/coreos/etcd:v3.5.0
 minio/minio:RELEASE.2020-12-03T00-03-10Z
 milvusdb/milvus:v2.0.0-rc8-20211104-d1f4106
+milvusdb/milvus-insight:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
