@@ -13,5 +13,6 @@ kibana:7.17.3
 elasticsearch:8.12.2
 elasticsearch:8.1.1
 mysql:5.7
+jumpserver/core:v4.0.0-ce
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
